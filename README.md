@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://mumtazwaliportfoliocom.vercel.app/](https://mumtazwaliportfoliocom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mumtazdev-blue.vercel.app/](https://mumtazdev-blue.vercel.app/)
 
-- 💬 Ask me about **react, JavaScript, Tailwind CSS etc.**
+- 💬 Ask me about ** React, JavaScript, Tailwind CSS, etc.**
 
-- 📫 How to reach me **mumtazkakakhail@gmail.com**
+- 📫 How to reach me: **mumtazkakakhail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
