@@ -42,7 +42,7 @@
 
 ### `<Overview />`
 
-I specialize in engineering **clean, scalable, and responsive frontend systems**. My work bridges the gap between design systems in **Figma** and production-ready codebases in **Next.js** and **TypeScript**—prioritizing fast load times, strict type safety, and intuitive user experiences.
+I specialize in engineering **clean, scalable, and responsive frontend systems**. I bridge the gap between design systems in **Figma** and production-ready codebases in **Next.js** and **TypeScript**, prioritising fast load times, strict type safety, and intuitive user experiences.
 
 ```ts
 const engineer = {
