@@ -6,7 +6,7 @@
   <a href="https://mumtazdev-blue.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=38&duration=4000&pause=1500&color=F8FAFC&center=true&vCenter=true&width=700&height=60&lines=MUMTAZ+WALI" alt="Mumtaz Wali" />
   </a>
-
+  
   <p align="center">
     <samp>FRONTEND WEB ENGINEER &nbsp;·&nbsp; UI ARCHITECT &nbsp;·&nbsp; PAKISTAN</samp>
   </p>
